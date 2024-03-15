@@ -1,7 +1,6 @@
 (https://ibb.co/ZzV4f0g)
 ### Hi there 👋, My name is Saiful Islam Khan
 #### Python Learner
-![Python Learner]
 
 Right now, I am learning Git and Python.
 
